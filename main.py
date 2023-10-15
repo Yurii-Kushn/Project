@@ -190,7 +190,7 @@ def rec_remove_phone(args):
 
 
 OPERATIONS = {
-        'add_phone': Record.rec_add_phone,
+        'add_phone': rec_add_phone,
         'rem_phone': rec_remove_phone,
         # 'show': show_all_func,
     }
